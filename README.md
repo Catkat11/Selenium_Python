@@ -4,3 +4,6 @@ Projekt "Data_entry_automation" używa bibliotek BeautifulSoup, requests i Selen
 
 
 Projekt "Internet_complain_bot" używa biblioteki Selenium do automatycznego testowania prędkości internetu na Speedtest.net, a następnie wysyła skargę na dostawcę usług poprzez Twittera, gdy prędkość jest niższa niż obiecana.
+
+
+Projekt "LinkedIn_auto_job_application" używa biblioteki Selenium do automatyzacji procesu przeszukiwania ofert pracy na LinkedIn, aplikowania na wybrane stanowiska oraz obsługi interakcji z formularzami aplikacyjnymi, zapewniając szybkie i skuteczne składanie wniosków o pracę.
