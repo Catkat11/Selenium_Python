@@ -10,3 +10,6 @@ Projekt "LinkedIn_auto_job_application" używa biblioteki Selenium do automatyza
 
 
 Projekt "Tinder Bot" wykorzystuje bibliotekę Selenium w języku Python do automatycznego przeglądania profili na Tinderze i wykonuje gest "swipe right" (polubienie) na wybraną liczbę profili użytkowników.
+
+
+Projekt "Cookie Clicker Bot" wykorzystuje bibliotekę Selenium w języku Python do automatycznego klikania w ciasteczka oraz zakupu ulepszeń w grze Cookie Clicker, co umożliwia efektywne zdobywanie punktów i rozwój w grze.
