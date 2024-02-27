@@ -7,3 +7,6 @@ Projekt "Internet_complain_bot" używa biblioteki Selenium do automatycznego tes
 
 
 Projekt "LinkedIn_auto_job_application" używa biblioteki Selenium do automatyzacji procesu przeszukiwania ofert pracy na LinkedIn, aplikowania na wybrane stanowiska oraz obsługi interakcji z formularzami aplikacyjnymi, zapewniając szybkie i skuteczne składanie wniosków o pracę.
+
+
+Projekt "Tinder Bot" wykorzystuje bibliotekę Selenium w języku Python do automatycznego przeglądania profili na Tinderze i wykonuje gest "swipe right" (polubienie) na wybraną liczbę profili użytkowników.
