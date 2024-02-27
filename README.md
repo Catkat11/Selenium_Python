@@ -13,3 +13,6 @@ Projekt "Tinder Bot" wykorzystuje bibliotekę Selenium w języku Python do autom
 
 
 Projekt "Cookie Clicker Bot" wykorzystuje bibliotekę Selenium w języku Python do automatycznego klikania w ciasteczka oraz zakupu ulepszeń w grze Cookie Clicker, co umożliwia efektywne zdobywanie punktów i rozwój w grze.
+
+
+Projekt "Instagram_following_bot" wykorzystuje bibliotekę Selenium w języku Python do automatycznego logowania się na Instagramie, znalezienia obserwujących określonego konta i automatycznego obserwowania ich, co umożliwia szybkie zwiększanie liczby obserwujących na koncie Instagram.
